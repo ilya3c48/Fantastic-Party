@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+header{
+    background-color: rgb(0, 255, 255);
+    padding: 5px;
+}
+
+h1{
+    color:rgb(223, 0, 223);
+}
+
+footer{
+    background-color: rgb(0, 255, 255);
+    padding: 10px;
+}
+
+footer p{
+    background-color: white;
+}
+
+nav{
+    border: 5px solid rgb(189, 184, 184);
+    padding: 10px;
+}
+
+nav a{
+    background-color: white;
+    color:rgb(189, 184, 184);
+    text-decoration: none;
+}
+
+.картинки{
+    border: 5px solid blue;
+}
+.season{
+    border: 1px solid rgb(0, 255, 255);
+}
+
+h2{
+    color: blue;
+}
